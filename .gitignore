@@ -1,0 +1,17 @@
+# Never commit the private source workbooks
+*.xlsx
+*.xls
+data/private/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+dashboard/~$*

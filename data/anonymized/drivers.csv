@@ -1,0 +1,4 @@
+driver_id,vehicle_id,platform,first_day,last_day,settlement_model,weekly_minimum_aoa
+D01,V01,Yango,2026-07-01,2026-10-03,weekly_minimum,109639.20
+D02,V02,Heetch,2026-08-18,2026-08-28,full_remittance,
+D03,V02,Yango,2026-09-16,2026-09-22,weekly_minimum,109639.20
